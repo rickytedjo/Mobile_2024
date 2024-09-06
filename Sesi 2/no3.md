@@ -1,0 +1,2 @@
+Dart merupakan bahasa pemrograman tingkat tinggi yang digunakan sebagai inti framework Flutter. Dart diluncurkan pada 2011, dengan versi stabil diluncurkan pada 2013, dan Dart 2.0 diluncurkan pada akhir 2018. Dart dibuat untuk mencoba memecahkan masalah yang muncul dengan JavaScript dengan menawarkan performa yang lebih baik.
+Dart dijalankan dengan 2 cara, pertama melalui Dart VM, dan Dart2js. Sintaks Dart memiliki kesamaan dengan bahasa lain seperti C dan JavaScript. Dart mengadopsi paradigma Object-oriented Programming
