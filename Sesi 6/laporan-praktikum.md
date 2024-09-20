@@ -93,3 +93,11 @@
 <img src="Images/24.png" alt="Alt text" width="400"/>
 
 <img src="Images/24-2.png" alt="Alt text" width="400"/>
+
+# Tugas Praktikum 2
+<img src="Images/Tugas Praktikum 2 - 1.png" alt="Alt text" width="400"/>
+
+Widget-widget praktikum 4 dimasukkan kedalam scaffoldpage
+
+<img src="Images/Tugas Praktikum 2 - 2.png" alt="Alt text" width="400"/>
+
