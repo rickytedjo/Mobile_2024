@@ -1,3 +1,5 @@
+Link Repository Praktikum : https://github.com/rickytedjo/flutter-fundamental-part1
+
 # Praktikum 1
 ## Langkah 1
 <img src="Images/1.png" alt="Alt text" width="400"/>
